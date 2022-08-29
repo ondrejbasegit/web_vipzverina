@@ -8,7 +8,7 @@ disqus_identifier = '9'
 
 {{< figure src="/images/logo.png" class="image left" >}}
 
-### V.I.P. ZVĚŘINA CZ
+### Radoslava Kordeková / VIP Zvěřina
 
 Jsme rodinná firma s 15ti letou tradicí a několika generačním koníčkem v myslivosti. Našim posláním je příprava zvěřiny v prvotřídní kvalitě, a to pod neustálou kontrolou veterinární správy. Maso získáváme z mysliveckých spolků z Východních Čech a dále ho prodáváme buď chlazené nebo hluboce zmražené. Mezi nespornými výhodami našeho masa je například zrání i v době uskladnění v mrazícím boxu, mnoho přírodních výživových hodnot a také nezasažení stresovým hormonem, typickým u zvířat jdoucí na porážku. Zvěřinu připravujeme v tzv. kuchyňské podobě - dodáme Vám ji opracovanou a v takové formě, abyste mohli rovnou začít vařit.
 
