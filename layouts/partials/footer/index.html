@@ -1,0 +1,90 @@
+<!-- Footer -->
+{{ $data := index .Site.Data .Site.Language.Lang }}
+<footer id="footer">
+    {{ with $data.contactinfo.contactformaction }}
+    <section>
+      <form method="post" action="/" netlify>
+        <div class="fields">
+          <div class="field">
+            <label for="subject" style="display: none;">Předmět:</label>
+            <input type="hidden" name="subject" id="subject" value="Zpráva z webu www.vipzverina.cz"/>
+          </div>
+          <div class="field">
+            <label for="name">{{ i18n "CONTACT_FORM_FIELD_NAME" . }}</label>
+            <input type="text" name="name" id="name" />
+          </div>
+          <div class="field">
+            <label for="email">{{ i18n "CONTACT_FORM_FIELD_EMAIL" . }}</label>
+            <input type="text" name="email" id="email" />
+          </div>
+          <div class="field">
+            <label for="message">{{ i18n "CONTACT_FORM_FIELD_MESSAGE" . }}</label>
+            <textarea name="message" id="message" rows="3"></textarea>
+          </div>
+        </div>
+        <ul class="actions">
+          <li><input type="submit" value='{{ i18n "CONTACT_FORM_SUBMIT_SEND_MESSAGE" . }}' /></li>
+        </ul> 
+      </form>
+    </section>
+    {{ end }}
+    <section class="split contact">
+        {{ with $data.contactinfo.address }}
+        <section class="alt">
+            <h3>{{ i18n "CONTACT_ADDRESS" . }}</h3>
+            <p>
+                {{ range $i, $e := . }}
+                    {{ if $i }} <br/> {{ end }} {{ .line }}
+                {{ end }}
+            </p>
+        </section>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2544.2152529173363!2d15.923720515528936!3d50.38118577946581!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x470e878477839f0f%3A0x9eb7285c086688c5!2sHe%C5%99manice%2027%2C%20552%2012%20He%C5%99manice!5e0!3m2!1scs!2scz!4v1661758198012!5m2!1scs!2scz" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        {{ end }}
+        {{ with $data.contactinfo.phone }}
+        <section>
+            <h3>{{ i18n "CONTACT_PHONE" . }}</h3>
+            <p><a href="tel:{{ . }}">{{ . }}</a></p>
+        </section>
+        {{ end }}
+        {{ with $data.contactinfo.email }}
+        <section>
+            <h3>{{ i18n "CONTACT_EMAIL" . }}</h3>
+            <p><a href="mailto:{{ . }}">{{ . }}</a></p>
+        </section>
+        {{ end }}
+        {{ with $data.social }}
+        <section>
+            <h3>{{ i18n "CONTACT_SOCIAL" . }}</h3>
+            <ul class="icons alt">
+                {{ with .twitter}}
+                <li><a href="{{ . }}" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
+                {{ end }}
+                {{ with .facebook}}
+                <li><a href="{{ . }}" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
+                {{ end }}
+                {{ with .instagram}}
+                <li><a href="{{ . }}" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li>
+                {{ end }}
+                {{ with .linkedin}}
+                <li><a href="{{ . }}" class="icon alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
+                {{ end }}
+                {{ with .github}}
+                <li><a href="{{ . }}" class="icon alt fa-github"><span class="label">GitHub</span></a></li>
+                {{ end }}
+                {{ with .youtube}}
+                <li><a href="{{ . }}" class="icon alt fa-youtube"><span class="label">Youtube</span></a></li>
+                {{ end }}
+                {{ with .googleplus}}
+                <li><a href="{{ . }}" class="icon alt fa-google-plus"><span class="label">Google Plus</span></a></li>
+                {{ end }}
+                {{ with .lastfm}}
+                <li><a href="{{ . }}" class="icon alt fa-lastfm"><span class="label">Last.fm</span></a></li>
+                {{ end }}
+                {{ with .flickr}}
+                <li><a href="{{ . }}" class="icon alt fa-flickr"><span class="label">Flickr</span></a></li>
+                {{ end }}
+            </ul>
+        </section>
+        {{ end }}
+    </section>
+</footer>
