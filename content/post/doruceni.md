@@ -15,7 +15,7 @@ Naše pravidla a zásady spolehlivého doručení. Jak si u nás objednat a kdy 
 Nemusíte se bát, že byste naši zvěřinu museli doma ještě nějak zpracovávat nebo odblaňovat, protože vám ji pečlivě připravíme do takové podoby, se kterou můžete začít **rovnou vařit**.
 
 Naše **prodejna** se nachází na adrese: 
-> Polní 126, 551 01 Jaroměř
+> Brod 27, 552 12 Heřmanice ([mapa zde](https://goo.gl/maps/mqrASiVPSXu4bWv19))
 
 Rádi Vám zvěřinu také dovezeme. Stačí udělat objednávku v minimální hodnotě 1000 Kč a dopravu do 25 km máte zdarma. V případě vzdálenějšího dovozu je cena dopravy stanovena na základě telefonické, či jiné domluvy.
 
