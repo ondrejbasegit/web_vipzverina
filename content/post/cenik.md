@@ -28,6 +28,25 @@ Prohlédněte si kompletní seznam našich nabízených produktů s gramáží a
 
 &nbsp;
 
+|**DRUH - DIVOČÁK**|KG v balení (cca)|KČ za KG|
+|:--|:--:|:--:|
+|Guláš|1,5|173|
+|Bok bez kosti|1-2|184|
+|Hřbet|1,5|335|
+|Kýta|1,5|247|
+|Panenka|1|374|
+
+&nbsp;
+
+|**DRUH - DANĚK**|KG v balení (cca)|KČ za KG|
+|:--|:--:|:--:|
+|Hřbet|1,5|390|
+|Kýta|1|297|
+|Svíčková|0,5|411|
+|Guláš|1,5|189|
+
+&nbsp;
+
 {{< figure src="/images/srnci_hrbet_svickova.jpg" class="image left" title="Srnčí svíčková">}} 
 {{< figure src="/images/srnci_gulas.jpg" class="image right" title="Srnčí guláš">}}
 {{< figure src="/images/srnci_kyta.jpg" class="image left" title="Srnčí kýta">}}
@@ -35,6 +54,16 @@ Prohlédněte si kompletní seznam našich nabízených produktů s gramáží a
 {{< figure src="/images/jelen_gulas.jpg" class="image left" title="Jelen guláš">}}
 {{< figure src="/images/jelen_kyta.jpg" class="image right" title="Jelen kýta">}}
 {{< figure src="/images/jelen_hrbet.jpg" class="image left" title="Jelen hřbet">}} 
+
+{{< figure src="/images/danek_kyta.jpg" class="image right" title="Daněk kýta">}} 
+{{< figure src="/images/danek_svickova.jpg" class="image left" title="Daněk svíčková">}}
+{{< figure src="/images/danek_gulas.jpg" class="image right" title="Daněk guláš">}} 
+{{< figure src="/images/danek_hrbet.jpg" class="image left" title="Daněk hřbet">}}
+{{< figure src="/images/divocak_gulas.jpg" class="image right" title="Divočák guláš">}} 
+{{< figure src="/images/divocak_bok.jpg" class="image left" title="Divočák bok bez kosti">}}
+{{< figure src="/images/divocak_hrbet.jpg" class="image right" title="Divočák hřbet">}}
+{{< figure src="/images/divocak_kyta.jpg" class="image left" title="Divočák kýta">}} 
+{{< figure src="/images/divocak_panenka.jpg" class="image right" title="Divočák panenka">}}
 
 &nbsp;
 
