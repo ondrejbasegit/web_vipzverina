@@ -6,44 +6,44 @@ date = "2010-00-00T00:00:00"
 disableComments = true
 +++
 
-Prohlédněte si kompletní seznam našich nabízených produktů s gramáží a cenami.<!--more-->
+Prohlédněte si kompletní seznam našich nabízených produktů s gramáží a cenami, vše je v kuchyňské úpravě.<!--more-->
 
 ## Zvěřina
 ---
 
 |**DRUH - SRNEC**|KG v balení (cca)|KČ za KG|
 |:--|:--:|:--:|
-|Hřbet + svíčková|1|626|
 |Guláš (krk + plec + kližka)|1,5|195|
 |Kýta rozšálovaná|1,5|429|
+|Hřbet + svíčková|1|626|
 
 &nbsp;
 
 |**DRUH - JELEN**|KG v balení (cca)|KČ za KG|
 |:--|:--:|:--:|
-|Kýta hřbet|1,5|374|
-|Kýta svíčková|1,5|404|
 |Guláš (krk + plec + kližka)|1,5|184|
 |Kýta  rozšálovaná|2|290|
+|Hřbet|1,5|374|
+|Svíčková|1,5|404|
 
 &nbsp;
 
 |**DRUH - DIVOČÁK**|KG v balení (cca)|KČ za KG|
 |:--|:--:|:--:|
-|Guláš|1,5|173|
+|Guláš (krk + plec + kližka)|1,5|173|
 |Bok bez kosti|1-2|184|
-|Hřbet|1,5|335|
 |Kýta|1,5|247|
+|Hřbet|1,5|335|
 |Panenka|1|374|
 
 &nbsp;
 
 |**DRUH - DANĚK**|KG v balení (cca)|KČ za KG|
 |:--|:--:|:--:|
-|Hřbet|1,5|390|
+|Guláš (krk + plec + kližka)|1,5|189|
 |Kýta|1|297|
+|Hřbet|1,5|390|
 |Svíčková|0,5|411|
-|Guláš|1,5|189|
 
 &nbsp;
 
@@ -67,7 +67,5 @@ Prohlédněte si kompletní seznam našich nabízených produktů s gramáží a
 
 &nbsp;
 
-||
+|||
 |:--|:--:|:--:|
-|Další druhy masa uvedeme již brzy!|
-
